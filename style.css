@@ -116,3 +116,13 @@ body {
 #baren .sectionwrapper {
     flex-direction: row;
 }
+
+#baren .top .txt {
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+#baren .top .img {
+    flex-basis: 200px;
+    flex-grow: 1;
+}
