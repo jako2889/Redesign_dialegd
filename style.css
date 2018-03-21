@@ -95,6 +95,11 @@ body {
     background-color: black;
     color: white;
 }
+#page3 .links .kontaktimg {
+    max-width: 380px;
+    max-height: 162px;
+}
+
 
 /*------- DESKTOP -------*/
 .sectionwrapper{
