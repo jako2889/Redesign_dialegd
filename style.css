@@ -113,3 +113,6 @@ body {
     padding-top: 5em;
 }
 
+#baren .sectionwrapper {
+    flex-direction: row;
+}
