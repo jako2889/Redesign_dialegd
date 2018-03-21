@@ -63,9 +63,10 @@ body {
 }
 
 
-.links img {
-    max-width: 1400px;
-    max-height: 700px
+.links .navimg {
+    max-width: 800px;
+    max-height: 412px;
+    padding: 100px 50px 100px 370px;
 }
 
 /*---------KONTAKT LINKS------*/
