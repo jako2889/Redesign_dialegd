@@ -13,6 +13,10 @@ p {
 
 }
 
+body {
+    background-color: rgb(246, 241, 233);
+}
+
 /*---------Læs mere knap--------*/
 .btn {
     background: rgba(#FFFFFF);
@@ -31,7 +35,8 @@ p {
 /*--------LINKS NAV--------*/
 .links {
     width: 100%;
-    background: url(DSC_0099_v2.png);
+    height: 650px;
+    background: #141126;
     background-size: cover;
      margin: 0 auto;
     display: flex;
@@ -46,7 +51,7 @@ p {
     padding: 0.4em 0.8em;
     border: 0.1em;
     border-radius: 0.4em;
-    color: black;
+    color: white;
 }
 .links a:hover {
     background-color: black;
@@ -54,3 +59,7 @@ p {
 }
 
 
+.links img {
+    max-width: 1400px;
+    max-height: 700px
+}
