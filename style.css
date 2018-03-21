@@ -125,6 +125,9 @@ body {
     flex-grow: 1;
     padding: 0px 8em 0px 0em;
 }
+#baren .top .txt h2{
+    margin-top: 0px;
+}
 
 #baren .top .img {
     flex-basis: 200px;
@@ -144,6 +147,9 @@ body {
     flex-basis: 200px;
     flex-grow: 1;
     padding: 0px 0em 0px 8em;
+}
+#baren .bottom .txt h2{
+    margin-top: 0px;
 }
 
 #baren .bottom .img {
