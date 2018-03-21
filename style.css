@@ -113,6 +113,16 @@ body {
     padding-top: 5em;
 }
 
+#info .sectionwrapper {
+    justify-content: space-around;
+}
+
+#info img {
+    max-width: 500px;
+    padding-top: 7em;
+
+}
+
 #baren .top {
     display: flex;
     flex-wrap: wrap;
