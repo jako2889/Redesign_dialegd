@@ -154,6 +154,7 @@ body {
     flex-wrap: wrap;
     flex-direction: row-reverse;
     padding-top: 10em;
+    padding-bottom: 2em;
 }
 
 #baren .bottom .txt {
@@ -174,4 +175,22 @@ body {
 
 #baren .bottom .barenbtn {
     padding-top: 3em;
+}
+
+/*---------FOOTER------*/
+
+footer {
+    width: 100%;
+    background-color: grey;
+    padding: 60px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+footer nav a{
+    text-decoration: none;
+    color: white;
+    padding-right: 2em;
 }
