@@ -113,16 +113,22 @@ body {
     padding-top: 5em;
 }
 
-#baren .sectionwrapper {
+#baren .top {
+    display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
+    padding-top: 10em;
 }
 
 #baren .top .txt {
     flex-basis: 200px;
     flex-grow: 1;
+    padding: 0px 8em 0px 0em;
 }
 
 #baren .top .img {
     flex-basis: 200px;
     flex-grow: 1;
+    max-width: 510px;
+    padding: 0px 8em;
 }
