@@ -68,3 +68,18 @@ body {
     max-height: 700px
 }
 
+.sectionwrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#billeder .sectionwrapper{
+    flex-direction: row;
+}
+
+#billeder .column{
+    flex-basis: 200px;
+    flex-grow: 1;
+    max-width: 400px;
+}
+
