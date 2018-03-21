@@ -40,9 +40,6 @@ body {
     background: url(DSC_0024.jpg);
     background-size: cover;
      margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
 }
 
 .links a {
