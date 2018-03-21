@@ -24,3 +24,20 @@ p {
 
 
 }
+/*--------LINKS NAV--------*/
+.links a {
+   display: inline-block;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 0.4em 0.8em;
+    border: 0.1em;
+    border-radius: 0.4em;
+    color: black;
+    flex-grow: 1;
+
+
+}
+.links a:hover {
+    background-color: black;
+    color: white;
+}
