@@ -81,5 +81,6 @@ body {
     flex-basis: 200px;
     flex-grow: 1;
     max-width: 700px;
+    padding-top: 5em;
 }
 
