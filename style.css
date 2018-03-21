@@ -205,6 +205,26 @@ footer nav a{
     padding-right: 2em;
 }
 
+/*------OMBAREN-------*/
+
+#ombaren .container1 {
+    flex-basis: 500px;
+    padding: 4em 2em 2em 5em;
+}
+
+#ombaren .container2 {
+    flex-basis: 500px;
+    padding: 20em 0em 2em 20em;
+
+}
+
+#ombaren .container3 {
+    flex-basis: 500px;
+    padding: 0em 2em 5em 5em;
+
+}
+
+/*-----KONTAKT--------*/
 #kontakt .sectionwrapper {
     display: flex;
     flex-wrap: wrap;
