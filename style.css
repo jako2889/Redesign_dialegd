@@ -13,7 +13,8 @@ p {
 .btn {
     background: rgba(#FFFFFF);
     border-radius: 4px;
-    padding: 20px 48px;
+    border: solid black;
+    padding: 12px 35px;
     opacity: 0.8;
     color: black;
     font: 20px 'Roboto', sans-serif;
