@@ -135,6 +135,9 @@ body {
     max-width: 510px;
     padding: 0px 8em;
 }
+#baren .top .barenbtn {
+    padding-top: 1.4em;
+}
 
 #baren .bottom {
     display: flex;
@@ -157,4 +160,8 @@ body {
     flex-grow: 1;
     max-width: 510px;
     padding: 0px 8em;
+}
+
+#baren .bottom .barenbtn {
+    padding-top: 3em;
 }
