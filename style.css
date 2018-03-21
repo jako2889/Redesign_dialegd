@@ -75,11 +75,13 @@ body {
     height: 250px;
     background-size: cover;
     margin: 0 auto;
+
 }
 #page3 .centrallinks {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
+    padding-left: 10em;
 }
 
 #page3 .links a {
@@ -90,14 +92,17 @@ body {
     border: 0.1em;
     border-radius: 0.4em;
     color: white;
+    height: 100%;
+    margin: 7em 0em 0em 0em;
+
 }
 #page3 .links a:hover {
     background-color: black;
     color: white;
 }
 #page3 .links .kontaktimg {
-    max-width: 380px;
-    max-height: 162px;
+    flex-basis: 500px;
+    padding-left: 5em;
 }
 
 
