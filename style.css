@@ -194,3 +194,16 @@ footer nav a{
     color: white;
     padding-right: 2em;
 }
+
+#kontakt .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+#kontakt .container1 {
+    flex-basis: 400px;
+    padding: 5em 2em 3em 7em;
+}
+#kontakt .container2 {
+    flex-basis: 400px;
+    padding: 20em 2em 3em 29em;
+}
