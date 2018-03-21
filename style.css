@@ -8,3 +8,18 @@ p {
     font-family: 'Roboto', sans-serif;
 
 }
+
+/*---------Læs mere knap--------*/
+.btn {
+    background: rgba(#FFFFFF);
+    border-radius: 4px;
+    padding: 20px 48px;
+    opacity: 0.8;
+    color: black;
+    font: 20px 'Roboto', sans-serif;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+
+}
