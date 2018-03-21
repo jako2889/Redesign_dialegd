@@ -132,3 +132,23 @@ body {
     max-width: 510px;
     padding: 0px 8em;
 }
+
+#baren .bottom {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    padding-top: 10em;
+}
+
+#baren .bottom .txt {
+    flex-basis: 200px;
+    flex-grow: 1;
+    padding: 0px 0em 0px 8em;
+}
+
+#baren .bottom .img {
+    flex-basis: 200px;
+    flex-grow: 1;
+    max-width: 510px;
+    padding: 0px 8em;
+}
