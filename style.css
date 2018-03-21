@@ -29,6 +29,7 @@ p {
 
 }
 /*--------LINKS NAV--------*/
+
 .links a {
    display: inline-block;
     text-decoration: none;
@@ -37,8 +38,6 @@ p {
     border: 0.1em;
     border-radius: 0.4em;
     color: black;
-    flex-grow: 1;
-
 
 }
 .links a:hover {
