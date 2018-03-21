@@ -36,7 +36,8 @@ body {
 .links {
     width: 100%;
     height: 650px;
-    background: #141126;
+/*    background: #141126;*/
+    background: url(DSC_0024.jpg);
     background-size: cover;
      margin: 0 auto;
     display: flex;
