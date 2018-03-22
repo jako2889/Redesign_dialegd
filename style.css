@@ -216,9 +216,9 @@ footer nav a{
     padding: 4em 2em 2em 5em;
 }
 
-#ombaren .container2 {
+#ombaren .hs-responsive-embed-youtube {
     flex-basis: 500px;
-    padding: 20em 0em 2em 20em;
+    padding: 20em 0em 2em 10em;
 
 }
 
@@ -243,16 +243,22 @@ footer nav a{
 }
 
 /*------MOBIL SITE-------*/
+
 @media screen and (max-width: 420px) {
 
-    body {
-        background-color: red;
-    }
     .links .navimg {
-        padding-left: 160px;
-        padding-right: 160px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .links {
+        width: 100%;
+        height: 420px;
+        /*    background: #141126;*/
+        background: url(DSC_0024.jpg);
+        background-size: cover;
+        margin: 0 auto;
     }
 
 }
-
 
