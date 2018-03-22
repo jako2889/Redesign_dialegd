@@ -234,6 +234,10 @@ footer nav a{
     #baren .bottom .txt {
         padding: 10px 20px 0px 20px;
     }
+    #baren .bottom {
+        padding-bottom: 10em;
+    }
+
     footer nav a {
         padding-right: 1em;
     }
