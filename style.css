@@ -239,3 +239,9 @@ footer nav a{
     flex-basis: 340px;
     padding: 8em 2em 3em 8em;
 }
+
+/*------MOBIL SITE-------*/
+@media only screen and (max-width: 420px) {
+
+
+}
