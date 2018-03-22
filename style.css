@@ -242,5 +242,9 @@ footer nav a{
         padding-right: 1em;
     }
 
+    #ombaren .container1 {
+        flex-basis: 800px;
+        padding: 4em 2em 2em 6em;
+    }
 }
 
