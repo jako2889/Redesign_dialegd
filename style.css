@@ -220,6 +220,10 @@ footer nav a{
 
 }
 
+iframe{
+    border-width: 0px;
+}
+
 /*-----KONTAKT--------*/
 #kontakt .sectionwrapper {
     display: flex;
