@@ -5,11 +5,11 @@ img {
 h1,
 h2,
 h3 {
-  font-family: "minion-pro-caption";
+  font-family: "minion-pro-caption", sans-serif;
 }
 
 p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Avenir', sans-serif;
 
 }
 
