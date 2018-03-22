@@ -6,6 +6,8 @@ h1,
 h2,
 h3 {
   font-family: "minion-pro-caption", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 p {
@@ -26,7 +28,7 @@ body {
     padding: 12px 35px;
     opacity: 0.8;
     color: black;
-    font: 20px 'Roboto', sans-serif;
+    font: 20px 'Avenir', sans-serif;
     text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
     text-transform: uppercase;
     letter-spacing: 1px;
