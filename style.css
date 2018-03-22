@@ -253,5 +253,13 @@ footer nav a{
         flex-basis: 500px;
         padding:50px 5px 50px 5px;
     }
+    #kontakt .container1 {
+        flex-basis: 400px;
+        padding: 50px 1px 50px 50px;
+    }
+    #kontakt .container2 {
+        flex-basis: 340px;
+        padding: 0px 50px 50px 50px;
+    }
 }
 
