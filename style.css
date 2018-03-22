@@ -46,6 +46,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+
 }
 
 .links a {
@@ -56,6 +57,7 @@ body {
     border: 0.1em;
     border-radius: 0.4em;
     color: white;
+    margin-top: 1em;
 }
 .links a:hover {
     background-color: black;
