@@ -5,7 +5,7 @@ img {
 h1,
 h2,
 h3 {
-  font-family: "minion-pro-caption", sans-serif;
+  font-family: "minion-pro-caption", serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -75,11 +75,15 @@ header {
     max-width: 800px;
     max-height: 412px;
     padding: 100px 50px 100px 350px;
+<<<<<<< HEAD
 */
 
 
     width: 63vw;
     margin: 0 auto;
+=======
+    margin: 0;
+>>>>>>> origin/master
 }
 
 /*---------KONTAKT LINKS------*/
