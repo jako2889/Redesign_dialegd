@@ -71,19 +71,8 @@ header {
 
 
 .navimg {
-/*
-    max-width: 800px;
-    max-height: 412px;
-    padding: 100px 50px 100px 350px;
-<<<<<<< HEAD
-*/
-
-
     width: 63vw;
     margin: 0 auto;
-=======
-    margin: 0;
->>>>>>> origin/master
 }
 
 /*---------KONTAKT LINKS------*/
@@ -98,7 +87,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: left;
-    padding-left: 10em;
+
 }
 
 #page3 .links a {
@@ -110,16 +99,15 @@ header {
     border-radius: 0.4em;
     color: white;
     height: 100%;
-    margin: 7em 0em 0em 0em;
 
 }
 #page3 .links a:hover {
     background-color: black;
     color: white;
 }
-#page3 .links .kontaktimg {
-    flex-basis: 500px;
-    padding-left: 5em;
+header .kontaktimg {
+    width: 40vw;
+    margin: 0 auto;
 }
 
 
