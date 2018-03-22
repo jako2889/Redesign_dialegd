@@ -76,41 +76,6 @@ header {
     margin: 0 auto;
 }
 
-/*---------KONTAKT LINKS------*/
-#page3 .links {
-    width: 100%;
-    height: 250px;
-    background-size: cover;
-    margin: 0 auto;
-
-}
-#page3 .centrallinks {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: left;
-
-}
-
-#page3 .links a {
-   display: inline-block;
-    text-decoration: none;
-    font-family: sans-serif;
-    padding: 0.4em 0.8em;
-    border: 0.1em;
-    border-radius: 0.4em;
-    color: white;
-    height: 100%;
-
-}
-#page3 .links a:hover {
-    background-color: black;
-    color: white;
-}
-header .kontaktimg {
-    width: 40vw;
-    margin: 0 auto;
-}
-
 
 /*------- DESKTOP -------*/
 .sectionwrapper{
