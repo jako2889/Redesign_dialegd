@@ -216,9 +216,23 @@ footer nav a{
     header {
         height: 250px;
     }
+
     .centrallinks {
         padding-bottom: 2em;
     }
 
+    #baren .top .img {
+        padding: 0px 0px 0px 0px;
+    }
+    #baren .top .txt {
+        padding: 0px 20px 0px 20px;
+    }
+
+    #baren .bottom .img {
+        padding: 0px 0px 0px 0px;
+    }
+    #baren .bottom .txt {
+        padding: 0px 20px 0px 20px;
+    }
 }
 
