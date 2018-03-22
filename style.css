@@ -241,11 +241,16 @@ footer nav a{
 }
 
 /*------MOBIL SITE-------*/
-@media only screen and (max-width: 420px) {
+@media screen and (max-width: 420px) {
 
+    body {
+        background-color: red;
+    }
     .links .navimg {
         padding-left: 160px;
         padding-right: 160px;
     }
 
 }
+
+
