@@ -241,16 +241,22 @@ footer nav a{
 }
 
 /*------MOBIL SITE-------*/
+
 @media screen and (max-width: 420px) {
 
-    body {
-        background-color: red;
-    }
     .links .navimg {
-        padding-left: 160px;
-        padding-right: 160px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .links {
+        width: 100%;
+        height: 420px;
+        /*    background: #141126;*/
+        background: url(DSC_0024.jpg);
+        background-size: cover;
+        margin: 0 auto;
     }
 
 }
-
 
