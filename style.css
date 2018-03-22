@@ -249,5 +249,9 @@ footer nav a{
     #ombaren .hs-responsive-embed-youtube {
         padding: 0px;
     }
+    #ombaren .container3 {
+        flex-basis: 500px;
+        padding:50px 5px 50px 5px;
+    }
 }
 
