@@ -35,8 +35,11 @@ body {
 
 
 }
+
+
+
 /*--------LINKS NAV--------*/
-.links {
+header {
     width: 100%;
     height: 650px;
 /*    background: #141126;*/
@@ -67,10 +70,16 @@ body {
 }
 
 
-.links .navimg {
+.navimg {
+/*
     max-width: 800px;
     max-height: 412px;
     padding: 100px 50px 100px 350px;
+*/
+
+
+    width: 63vw;
+    margin: 0 auto;
 }
 
 /*---------KONTAKT LINKS------*/
